@@ -1,0 +1,2 @@
+# StudyBud
+Learning Django
